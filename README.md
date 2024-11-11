@@ -1,4 +1,4 @@
-# Twitter-DAPP-
+
 # MiniTwitter - Application Décentralisée sur Ethereum
 
 MiniTwitter est une application décentralisée (dApp) inspirée de Twitter, construite sur la blockchain Ethereum. Cette application permet aux utilisateurs de publier des messages, commenter, liker, et interagir avec les publications de manière sécurisée et transparente via un smart contract. Ce projet utilise Solidity pour le développement du smart contract et Web3.js pour l'interaction avec la blockchain via MetaMask.
